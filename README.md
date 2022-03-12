@@ -19,4 +19,4 @@
 
 
 <h6>Yet to be implement:</h6>
-[ ] Customer Testimonial Section
+<i>-[ ] Customer Testimonial Section</i>
