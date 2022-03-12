@@ -7,7 +7,10 @@
 - [ ] responsive design
 
 
-<h3>Work in progress.</h3>
+<br>
+<br>
+<br>
+<br>
 
 <h2>Log</h2>
 <p><i>Day 1 - Started & finished the header section.</i></p>
