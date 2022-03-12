@@ -1,8 +1,10 @@
-### Yet to be implement:
+### Yet to be completed/implemented:
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth 
+- [ ] customer testimonials section
+- [ ] sign-up section
+- [ ] contact form  
+- [ ] footer
+- [ ] responsive design
 
 
 <h3>Work in progress.</h3>
