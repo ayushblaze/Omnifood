@@ -1,3 +1,8 @@
+- [ ] Mercury
+- [x] Venus
+- [x] Earth 
+
+
 <h3>Work in progress.</h3>
 
 <h2>Log</h2>
