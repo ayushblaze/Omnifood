@@ -20,4 +20,9 @@
 
 <h6>Yet to be implement:</h6>
 <i>- [ ] Customer Testimonial Section</i>
-- [ ] 
+
+
+<br>
+- [ ] Mercury
+- [x] Venus
+- [x] Earth 
