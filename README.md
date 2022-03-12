@@ -1,4 +1,5 @@
-<h6>Yet to be implement:</h6>
+###Yet to be implement:
+
 - [ ] Mercury
 - [x] Venus
 - [x] Earth 
