@@ -1,6 +1,6 @@
 ### Yet to be completed/implemented:
 
-- [ ] customer testimonials section
+- [x] customer testimonials section
 - [ ] sign-up section
 - [ ] contact form  
 - [ ] footer
