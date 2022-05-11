@@ -2,7 +2,7 @@
 
 - [x] customer testimonials section
 - [x] sign-up section
-- [ ] contact form  
+- [x] contact form  
 - [ ] footer
 - [ ] responsive design
 
@@ -19,3 +19,4 @@
 <p><i>Day 4 - Started & completed the how it works section.</i><p>
 <p><i>Day 5 - Finished the cities section.</i></p>
 <p><i>Day 6 - Started & finished the testimonials section, and the sign-up section.</i></p>
+<p><i>Day 7 - Finished the contact form.</i></p>
